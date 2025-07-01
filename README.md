@@ -15,7 +15,7 @@ In a competitive e-commerce space, it's crucial to understand and categorize cus
 
 ##  Dataset
 The dataset contains transactions from December 1, 2009, to December 9, 2011.
-- 'InvoiceNo'
+- 'InvoiceNo' 
 - 'StockCode'
 - 'Description'
 - 'Quantity'
