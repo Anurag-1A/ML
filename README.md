@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Myntra_logo.jpg" alt="Myntra Logo" width="200"/>
+</p>
+
 # Myntra Customer Segmentation (Unsupervised ML)
 
 Myntra, a prominent Indian fashion e-commerce company, is celebrated for its extensive range of clothing, accessories, and lifestyle products. Beyond its fashion expertise, Myntra manages a specialized division Myntra Gifts Ltd. which focuses on unique, all-occasion giftware. Headquartered in the UK, this division serves international markets through its online retail platform
@@ -67,6 +71,7 @@ The dataset contains transactions from December 1, 2009, to December 9, 2011.
 ![Top Products Bar Chart](images/Myntra_Top_Products_Barchart.JPG)
 -  Heatmap
 ![Sales Heatmap](images/Myntra_Sales_Heatmap.JPG)
+
 -  Pie Chart
 ![Revenue Pie Chart](images/Myntra_Revenue_Piechart.JPG)
 -  Silhouette plots for cluster evaluation
@@ -88,5 +93,6 @@ The dataset contains transactions from December 1, 2009, to December 9, 2011.
 
 
 ---
+** > This project is a purely academic exercise and is not affiliated with or endorsed by Myntra.
 
 
