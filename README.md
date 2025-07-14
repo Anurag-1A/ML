@@ -64,8 +64,11 @@ The dataset contains transactions from December 1, 2009, to December 9, 2011.
 ##  Visualizations
 
 -  Barchart
--  Heatmap 
--  Line chart (for hour/day sales trend)
+![Top Products Bar Chart](images/Myntra_Top_Products_Barchart.JPG)
+-  Heatmap
+![Sales Heatmap](images/Myntra_Sales_Heatmap.JPG)
+-  Pie Chart
+![Revenue Pie Chart](images/Myntra_Revenue_Piechart.JPG)
 -  Silhouette plots for cluster evaluation
 
 ---
